@@ -30,10 +30,10 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - $$mdi:apple-keyboard-caps$$
+  - B
   - $$mdi:apple-keyboard-option$$
-  - LGUI
-  - {t: '$$mdi:keyboard-esc$$', h: snipe}
+  - $$mdi:apple-keyboard-command$$
+  - {t: E, h: snipe}
   - {t: '$$mdi:keyboard-space$$', h: mouse}
   - {t: '$$mdi:keyboard-tab$$', h: scroll}
   - {t: '$$mdi:keyboard-return$$', type: enter}
