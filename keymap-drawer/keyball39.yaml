@@ -30,7 +30,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - CLCK
+  - $$mdi:apple-keyboard-caps$$
   - $$mdi:apple-keyboard-option$$
   - LGUI
   - {t: '$$mdi:keyboard-esc$$', h: snipe}
