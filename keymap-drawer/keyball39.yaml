@@ -35,7 +35,7 @@ layers:
   - $$mdi:apple-keyboard-command$$
   - {t: E, h: snipe}
   - {t: '$$mdi:keyboard-space$$', h: mouse}
-  - {t: '$$mdi:keyboard-tab$$', h: scroll}
+  - '&mkp MB1'
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:backspace$$', h: symbol}
   - $$mdi:apple-keyboard-shift$$
@@ -235,7 +235,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
