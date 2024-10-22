@@ -32,7 +32,7 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-command$$
   - {t: E, h: snipe}
   - {t: '$$mdi:keyboard-space$$', h: mouse}
   - {t: '$$mdi:keyboard-tab$$', h: scroll}
