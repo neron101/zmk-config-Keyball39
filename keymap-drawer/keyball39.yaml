@@ -35,7 +35,7 @@ layers:
   - $$mdi:apple-keyboard-command$$
   - {t: E, h: snipe}
   - {t: '$$mdi:keyboard-space$$', h: mouse}
-  - $$mdi:mouse-left-click-outline$$
+  - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:backspace$$', h: symbol}
   - $$mdi:apple-keyboard-shift$$
