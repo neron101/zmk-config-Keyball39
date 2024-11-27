@@ -147,8 +147,8 @@ layers:
   - {t: Sft+ 0, s: Sft+ )}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - $$mdi:arrow-left-bold$$
-  - $$mdi:arrow-right-bold$$
+  - {t: 'Sft+Gui+ ,', s: Sft+Gui+ <}
+  - Gui+Sft+ .
   - $$mdi:arrow-up-bold$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
