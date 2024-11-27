@@ -60,16 +60,16 @@ layers:
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - '~'
-  - $$mdi:keyboard-tab$$
-  - $$mdi:keyboard-esc$$
-  - HOME
-  - END
+  - $$mdi:arrow-left-bold$$
+  - $$mdi:arrow-right-bold$$
+  - $$mdi:arrow-down-bold$$
+  - $$mdi:arrow-up-bold$$
   - $$mdi:volume-low$$
   - {t: '-', s: _}
   - {t: Sft+ /, s: 'Sft+ ?'}
-  - $$mdi:arrow-left-bold$$
-  - $$mdi:arrow-right-bold$$
-  - $$mdi:arrow-up-bold$$
+  - $$mdi:keyboard-tab$$
+  - $$mdi:keyboard-esc$$
+  - HOME
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -78,7 +78,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
-  - $$mdi:arrow-down-bold$$
+  - END
   FUN:
   - F1
   - F2
