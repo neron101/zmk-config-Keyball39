@@ -133,7 +133,7 @@ layers:
   - Sft+ 1
   - Sft+ 2
   - Sft+ 3
-  - Sft+ $$mdi:arrow-right-bold$$
+  - Sft+ 4
   - {t: Sft+ 5, s: Sft+ %}
   - {t: '-', s: _}
   - {t: '=', s: +}
@@ -145,8 +145,8 @@ layers:
   - {t: Sft+ 8, s: Sft+ *}
   - {t: Sft+ 9, s: Sft+ (}
   - {t: Sft+ 0, s: Sft+ )}
-  - $$mdi:keyboard-tab$$
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '[', s: '{'}
+  - {t: ']', s: '}'}
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
   - $$mdi:arrow-up-bold$$
