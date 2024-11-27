@@ -135,8 +135,8 @@ layers:
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
   - {t: Sft+ 5, s: Sft+ %}
-  - {t: '-', s: _}
-  - {t: '=', s: +}
+  - {t: Sft+Gui+ -, s: Sft+Gui+ _}
+  - {t: Sft+Gui+ =, s: Sft+Gui+ +}
   - {t: Sft+ /, s: 'Sft+ ?'}
   - '~'
   - {t: ;, s: ':'}
