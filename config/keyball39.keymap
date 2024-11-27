@@ -85,10 +85,10 @@
         mouse_layer {
             label = "MOUSE";
             bindings = <
-&kp N1            &kp N2      &kp N3      &kp NUMBER_4  &kp N5                      &kp N6            &kp N7             &kp N8          &kp N9     &kp N0
-&kp LEFT          &kp RIGHT   &kp DOWN    &kp UP_ARROW  &kp LS(N5)                  &kp MINUS         &kp EQUAL          &kp RS(SLASH)   &kp TILDE  &kp SEMICOLON
-&kp LS(NUMBER_6)  &kp LS(N7)  &kp LS(N8)  &kp LS(N9)    &kp LS(N0)                  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_ARROW  &kp RIGHT  &kp UP
-&none             &trans      &trans      &trans        &trans      &trans  &trans  &mo 2                                                           &kp DOWN_ARROW
+&kp N1            &kp N2      &kp N3      &kp NUMBER_4  &kp N5                      &kp N6             &kp N7             &kp N8          &kp N9     &kp N0
+&kp LEFT          &kp RIGHT   &kp DOWN    &kp UP_ARROW  &kp LS(N5)                  &kp LS(LG(MINUS))  &kp RS(RG(EQUAL))  &kp RS(SLASH)   &kp TILDE  &kp SEMICOLON
+&kp LS(NUMBER_6)  &kp LS(N7)  &kp LS(N8)  &kp LS(N9)    &kp LS(N0)                  &kp LEFT_BRACKET   &kp RIGHT_BRACKET  &kp LEFT_ARROW  &kp RIGHT  &kp UP
+&none             &trans      &trans      &trans        &trans      &trans  &trans  &mo 2                                                            &kp DOWN_ARROW
             >;
         };
 
