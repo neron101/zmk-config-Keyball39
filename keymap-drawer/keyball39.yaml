@@ -132,23 +132,23 @@ layers:
   - {t: '0', s: )}
   - Sft+ 1
   - Sft+ 2
-  - Sft+ 3
+  - MUTE
   - Sft+ 4
-  - {t: Sft+ 5, s: Sft+ %}
-  - {t: Sft+Gui+ -, s: Sft+Gui+ _}
-  - {t: Sft+Gui+ =, s: Sft+Gui+ +}
-  - {t: Sft+ /, s: 'Sft+ ?'}
+  - $$mdi:arrow-up-bold$$
+  - {t: '-', s: _}
+  - {t: '=', s: +}
+  - {t: '[', s: '{'}
+  - {t: ']', s: '}'}
   - '~'
-  - {t: ;, s: ':'}
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
   - $$mdi:arrow-down-bold$$
-  - {t: '[', s: '{'}
-  - {t: ']', s: '}'}
-  - {t: 'Sft+Gui+ ,', s: Sft+Gui+ <}
-  - Gui+Sft+ .
+  - {t: /, s: '?'}
+  - '?'
+  - {t: ',', s: <}
+  - .
   - $$mdi:arrow-up-bold$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
