@@ -55,20 +55,20 @@ layers:
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
   - $$mdi:arrow-up-bold$$
-  - {t: '-', s: _}
-  - {t: '=', s: +}
+  - {t: Gui+Sft+ -, s: Gui+Sft+ _}
+  - {t: Gui+Sft+ =, s: Gui+Sft+ +}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - '~'
+  - $$mdi:keyboard-tab$$
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
   - $$mdi:arrow-down-bold$$
-  - {t: '-', s: _}
+  - {t: /, s: '?'}
   - {t: Sft+ /, s: 'Sft+ ?'}
-  - $$mdi:keyboard-tab$$
-  - $$mdi:keyboard-esc$$
+  - {t: 'Gui+Sft+ ,', s: Gui+Sft+ <}
+  - Gui+Sft+ .
   - HOME
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
