@@ -85,10 +85,10 @@
         mouse_layer {
             label = "MOUSE";
             bindings = <
-&kp N1             &kp N2            &kp N3          &kp NUMBER_4      &kp N5                        &kp N6     &kp N7        &kp N8            &kp N9             &kp N0
-&kp LS(NUMBER_1)   &kp LS(NUMBER_2)  &kp K_MUTE      &kp LS(NUMBER_4)  &kp UP_ARROW                  &kp MINUS  &kp EQUAL     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp TILDE
-&kp C_VOLUME_DOWN  &kp C_VOLUME_UP   &kp LEFT_ARROW  &kp RIGHT         &kp DOWN                      &kp SLASH  &kp QUESTION  &kp COMMA         &kp PERIOD         &kp UP
-&none              &trans            &trans          &trans            &trans        &trans  &trans  &mo 2                                                         &kp DOWN_ARROW
+&kp N1             &kp N2            &kp N3          &kp NUMBER_4  &kp N5                        &kp N6     &kp N7        &kp N8            &kp N9             &kp N0
+&kp LS(NUMBER_1)   &kp LS(NUMBER_2)  &kp K_MUTE      &kp K_MUTE    &kp UP_ARROW                  &kp MINUS  &kp EQUAL     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp TILDE
+&kp C_VOLUME_DOWN  &kp C_VOLUME_UP   &kp LEFT_ARROW  &kp RIGHT     &kp DOWN                      &kp SLASH  &kp QUESTION  &kp COMMA         &kp PERIOD         &kp UP
+&none              &trans            &trans          &trans        &trans        &trans  &trans  &mo 2                                                         &kp DOWN_ARROW
             >;
         };
 
