@@ -54,17 +54,17 @@ layers:
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
-  - $$mdi:volume-high$$
+  - $$mdi:arrow-up-bold$$
   - {t: '-', s: _}
   - {t: '=', s: +}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - '~'
+  - $$mdi:volume-low$$
+  - $$mdi:volume-high$$
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
   - $$mdi:arrow-down-bold$$
-  - $$mdi:arrow-up-bold$$
-  - $$mdi:volume-low$$
   - {t: '-', s: _}
   - {t: Sft+ /, s: 'Sft+ ?'}
   - $$mdi:keyboard-tab$$
@@ -130,21 +130,21 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
+  - MUTE
+  - MUTE
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
-  - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
-  - {t: Sft+ 5, s: Sft+ %}
   - {t: Sft+Gui+ -, s: Sft+Gui+ _}
   - {t: Sft+Gui+ =, s: Sft+Gui+ +}
   - {t: Sft+ /, s: 'Sft+ ?'}
   - '~'
   - {t: ;, s: ':'}
-  - Sft+ 6
-  - {t: Sft+ 7, s: Sft+ &}
-  - {t: Sft+ 8, s: Sft+ *}
-  - {t: Sft+ 9, s: Sft+ (}
-  - {t: Sft+ 0, s: Sft+ )}
+  - $$mdi:volume-low$$
+  - $$mdi:volume-high$$
+  - $$mdi:arrow-left-bold$$
+  - $$mdi:arrow-right-bold$$
+  - $$mdi:arrow-down-bold$$
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - {t: 'Sft+Gui+ ,', s: Sft+Gui+ <}
