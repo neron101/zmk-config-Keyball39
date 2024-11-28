@@ -85,10 +85,10 @@
         mouse_layer {
             label = "MOUSE";
             bindings = <
-&kp N1             &kp N2           &kp N3          &kp NUMBER_4  &kp N5                        &kp N6             &kp N7             &kp N8             &kp N9              &kp N0
-&kp K_MUTE         &kp K_MUTE       &kp LEFT        &kp RIGHT     &kp UP_ARROW                  &kp LS(LG(MINUS))  &kp RS(RG(EQUAL))  &kp RS(SLASH)      &kp TILDE           &kp SEMICOLON
-&kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp LEFT_ARROW  &kp RIGHT     &kp DOWN                      &kp LEFT_BRACKET   &kp RIGHT_BRACKET  &kp LS(RG(COMMA))  &kp RG(RS(PERIOD))  &kp UP
-&none              &trans           &trans          &trans        &trans        &trans  &trans  &mo 2                                                                        &kp DOWN_ARROW
+&kp N1             &kp N2            &kp N3            &kp NUMBER_4      &kp N5                      &kp N6             &kp N7             &kp N8             &kp N9              &kp N0
+&kp LS(NUMBER_1)   &kp LS(NUMBER_2)  &kp LS(NUMBER_3)  &kp LS(NUMBER_4)  &kp LS(N5)                  &kp LS(LG(MINUS))  &kp RS(RG(EQUAL))  &kp RS(SLASH)      &kp TILDE           &kp SEMICOLON
+&kp C_VOLUME_DOWN  &kp C_VOLUME_UP   &kp LEFT_ARROW    &kp RIGHT         &kp DOWN                    &kp LEFT_BRACKET   &kp RIGHT_BRACKET  &kp LS(RG(COMMA))  &kp RG(RS(PERIOD))  &kp UP
+&none              &trans            &trans            &trans            &trans      &trans  &trans  &mo 2                                                                        &kp DOWN_ARROW
             >;
         };
 
