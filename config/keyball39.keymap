@@ -49,16 +49,25 @@
         };
     };
 
+    macros {
+        new_macro1: new_macro1 {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp NUMBER_1 &kp NUMBER_1 &kp NUMBER_1 &kp NUMBER_1 &kp ENTER>;
+            label = "NEW_MACRO1";
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
         default_layer {
             label = "QWRT";
             bindings = <
-&kp Q     &kp W     &kp E     &kp R      &kp T                              &kp Y            &kp U  &kp I      &kp O    &kp P
-&kp A     &kp S     &kp D     &kp F      &kp G                              &kp H            &kp J  &kp K      &kp L    &kp SEMI
-&kp Z     &kp X     &kp C     &kp V      &kp B                              &kp N            &kp M  &kp COMMA  &kp DOT  &kp SLASH
-&kp CLCK  &kp LALT  &kp LCMD  &kp LCTRL  &lt 3 SPACE  &mkp LCLK  &kp ENTER  &lt 1 BACKSPACE                             &kp RSHFT
+&kp Q     &kp W     &kp E             &kp R     &kp T                              &kp Y            &kp U  &kp I      &kp O    &kp P
+&kp A     &kp S     &kp D             &kp F     &kp G                              &kp H            &kp J  &kp K      &kp L    &kp SEMI
+&kp Z     &kp X     &kp C             &kp V     &kp B                              &kp N            &kp M  &kp COMMA  &kp DOT  &kp SLASH
+&kp CLCK  &kp LALT  &kp LEFT_CONTROL  &kp LGUI  &lt 3 SPACE  &mkp LCLK  &kp ENTER  &lt 1 BACKSPACE                             &kp RSHFT
             >;
         };
 
