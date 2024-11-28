@@ -150,8 +150,8 @@ layers:
   - {t: ',', s: <}
   - .
   - $$mdi:arrow-up-bold$$
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - LANGUAGE 2
+  - LANG HANGEUL
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
