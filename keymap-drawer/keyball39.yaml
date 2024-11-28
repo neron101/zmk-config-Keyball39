@@ -133,7 +133,7 @@ layers:
   - Sft+ 1
   - Sft+ 2
   - MUTE
-  - Sft+ 4
+  - MUTE
   - $$mdi:arrow-up-bold$$
   - {t: '-', s: _}
   - {t: '=', s: +}
