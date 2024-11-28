@@ -152,7 +152,7 @@ layers:
   - $$mdi:arrow-up-bold$$
   - LANGUAGE 2
   - LANG HANGEUL
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:apple-keyboard-control$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
