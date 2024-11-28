@@ -130,11 +130,11 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - MUTE
-  - MUTE
-  - $$mdi:arrow-left-bold$$
-  - $$mdi:arrow-right-bold$$
-  - $$mdi:arrow-up-bold$$
+  - Sft+ 1
+  - Sft+ 2
+  - Sft+ 3
+  - Sft+ 4
+  - {t: Sft+ 5, s: Sft+ %}
   - {t: Sft+Gui+ -, s: Sft+Gui+ _}
   - {t: Sft+Gui+ =, s: Sft+Gui+ +}
   - {t: Sft+ /, s: 'Sft+ ?'}
