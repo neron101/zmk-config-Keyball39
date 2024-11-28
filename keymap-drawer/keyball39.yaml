@@ -32,8 +32,8 @@ layers:
   - {t: /, s: '?'}
   - CLCK
   - $$mdi:apple-keyboard-option$$
-  - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-control$$
+  - LGUI
   - {t: '$$mdi:keyboard-space$$', h: MOUSE}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
