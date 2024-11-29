@@ -58,7 +58,7 @@ layers:
   - {t: Gui+Sft+ -, s: Gui+Sft+ _}
   - {t: Gui+Sft+ =, s: Gui+Sft+ +}
   - {t: '[', s: '{'}
-  - {t: ']', s: '}'}
+  - Q
   - $$mdi:keyboard-tab$$
   - $$mdi:volume-low$$
   - $$mdi:volume-high$$
