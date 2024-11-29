@@ -130,9 +130,9 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - Sft+ 1
-  - Sft+ 2
-  - MUTE
+  - {t: X, h: '$$mdi:apple-keyboard-command$$'}
+  - {t: C, h: '$$mdi:apple-keyboard-command$$'}
+  - {t: V, h: '$$mdi:apple-keyboard-command$$'}
   - MUTE
   - $$mdi:arrow-up-bold$$
   - {t: '-', s: _}
