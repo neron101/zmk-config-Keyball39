@@ -150,8 +150,8 @@ layers:
   - {t: ',', s: <}
   - .
   - $$mdi:arrow-up-bold$$
+  - LANGUAGE 1
   - LANGUAGE 2
-  - LANG HANGEUL
   - $$mdi:apple-keyboard-control$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
