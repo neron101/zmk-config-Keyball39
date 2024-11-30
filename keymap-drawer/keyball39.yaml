@@ -242,3 +242,7 @@ layers:
 combos:
 - p: [5, 6]
   k: {t: SNIPE, h: toggle}
+  l: [QWRT]
+- p: [15, 16]
+  k: {t: SNIPE, h: toggle}
+  l: [QWRT]
