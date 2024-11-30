@@ -61,9 +61,16 @@
     combos {
         compatible = "zmk,combos";
 
-        BT {
+        BT1YU {
             bindings = <&to 5>;
             key-positions = <5 6>;
+            layers = <0>;
+        };
+
+        BT2HJ {
+            bindings = <&to 5>;
+            key-positions = <15 16>;
+            layers = <0>;
         };
     };
 
