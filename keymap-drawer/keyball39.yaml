@@ -60,8 +60,8 @@ layers:
   - {t: '[', s: '{'}
   - Q
   - $$mdi:keyboard-tab$$
-  - $$mdi:volume-low$$
-  - $$mdi:volume-high$$
+  - $$mdi:keyboard-tab$$
+  - Q
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
   - $$mdi:arrow-down-bold$$
@@ -70,9 +70,9 @@ layers:
   - {t: 'Gui+Sft+ ,', s: Gui+Sft+ <}
   - Gui+Sft+ .
   - HOME
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:volume-low$$
+  - $$mdi:volume-high$$
+  - MUTE
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -133,15 +133,15 @@ layers:
   - {t: X, h: '$$mdi:apple-keyboard-command$$'}
   - {t: C, h: '$$mdi:apple-keyboard-command$$'}
   - {t: V, h: '$$mdi:apple-keyboard-command$$'}
-  - MUTE
+  - {t: Z, h: '$$mdi:apple-keyboard-command$$'}
   - $$mdi:arrow-up-bold$$
   - {t: '-', s: _}
   - {t: '=', s: +}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - '~'
-  - $$mdi:volume-low$$
-  - $$mdi:volume-high$$
+  - Gui+Sft+ A
+  - $$mdi:mouse-right-click-outline$$
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
   - $$mdi:arrow-down-bold$$
