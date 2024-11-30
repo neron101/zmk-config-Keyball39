@@ -149,7 +149,7 @@ layers:
   - '?'
   - {t: ',', s: <}
   - .
-  - $$mdi:arrow-up-bold$$
+  - $$mdi:mouse-right-click-outline$$
   - LANGUAGE 1
   - LANGUAGE 2
   - $$mdi:apple-keyboard-control$$
