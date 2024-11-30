@@ -60,7 +60,7 @@ layers:
   - {t: '[', s: '{'}
   - Q
   - $$mdi:keyboard-tab$$
-  - $$mdi:keyboard-tab$$
+  - Ctl+ $$mdi:keyboard-tab$$
   - Q
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
@@ -140,7 +140,7 @@ layers:
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - '~'
-  - Gui+Sft+ A
+  - Gui+Sft+ Z
   - $$mdi:mouse-right-click-outline$$
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
