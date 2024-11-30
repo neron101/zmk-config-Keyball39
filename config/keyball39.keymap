@@ -58,21 +58,7 @@
         };
     };
 
-    combos {
-        compatible = "zmk,combos";
-
-        BT1YU {
-            bindings = <&to 5>;
-            key-positions = <5 4>;
-            layers = <0>;
-        };
-
-        BT2HJ {
-            bindings = <&to 0>;
-            key-positions = <15 14>;
-            layers = <0>;
-        };
-    };
+    combos { compatible = "zmk,combos"; };
 
     keymap {
         compatible = "zmk,keymap";
