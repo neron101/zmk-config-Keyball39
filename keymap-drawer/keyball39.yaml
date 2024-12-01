@@ -85,10 +85,10 @@ layers:
   - F3
   - F4
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - $$mdi:bluetooth-off$$
-  - {h: '1', s: '$$mdi:bluetooth-connect$$'}
-  - {h: '2', s: '$$mdi:bluetooth-connect$$'}
-  - {h: '3', s: '$$mdi:bluetooth-connect$$'}
+  - Y
+  - U
+  - B
+  - O
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - F5
   - F6
