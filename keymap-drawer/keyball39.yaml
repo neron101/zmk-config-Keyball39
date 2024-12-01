@@ -54,25 +54,25 @@ layers:
   - {h: '1', s: '$$mdi:bluetooth-connect$$'}
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
-  - $$mdi:arrow-up-bold$$
+  - $$mdi:volume-high$$
   - {t: Gui+Sft+ -, s: Gui+Sft+ _}
   - {t: Gui+Sft+ =, s: Gui+Sft+ +}
   - {t: '[', s: '{'}
   - Q
   - $$mdi:keyboard-tab$$
   - $$mdi:keyboard-esc$$
-  - $$mdi:keyboard-tab$$
-  - $$mdi:arrow-left-bold$$
-  - $$mdi:arrow-right-bold$$
-  - $$mdi:arrow-down-bold$$
+  - PgUp
+  - PgDn
+  - MUTE
+  - $$mdi:volume-low$$
   - {t: /, s: '?'}
   - {t: Sft+ /, s: 'Sft+ ?'}
   - {t: 'Gui+Sft+ ,', s: Gui+Sft+ <}
   - Gui+Sft+ .
   - HOME
-  - $$mdi:volume-low$$
-  - $$mdi:volume-high$$
-  - MUTE
+  - LANGUAGE 1
+  - LANGUAGE 2
+  - $$mdi:apple-keyboard-control$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -87,7 +87,7 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - Y
   - U
-  - B
+  - I
   - O
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - F5
