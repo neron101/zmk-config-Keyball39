@@ -85,10 +85,10 @@ layers:
   - F3
   - F4
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - Y
-  - U
+  - UNDO
+  - '|'
   - I
-  - O
+  - CALCULATOR
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - F5
   - F6
