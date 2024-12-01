@@ -56,6 +56,13 @@
             bindings = <&kp NUMBER_1 &kp NUMBER_1 &kp NUMBER_1 &kp NUMBER_1 &kp ENTER>;
             label = "NEW_MACRO1";
         };
+
+        new_macro: new_macro {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <>;
+            label = "NEW_MACRO";
+        };
     };
 
     combos { compatible = "zmk,combos"; };
