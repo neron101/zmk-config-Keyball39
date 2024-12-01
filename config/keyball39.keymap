@@ -57,10 +57,10 @@
             label = "NEW_MACRO1";
         };
 
-        new_macro: new_macro {
+        new_macromail: new_macro {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <>;
+            bindings = <&kp M &kp U &kp N &kp E &kp H &kp O &kp N &kp E &kp AT_SIGN &kp M &kp A &kp C &kp PERIOD &kp C &kp O &kp M>;
             label = "NEW_MACRO";
         };
     };
