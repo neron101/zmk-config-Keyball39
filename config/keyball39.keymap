@@ -78,7 +78,7 @@
             bindings = <
 &kp EXCLAMATION    &kp AT_SIGN      &kp HASH        &kp DOLLAR    &kp PERCENT                     &kp Q              &kp AMPERSAND      &kp ASTERISK       &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
 &bt BT_CLR         &bt BT_SEL 0     &bt BT_SEL 1    &bt BT_SEL 2  &kp UP_ARROW                    &kp RG(RS(MINUS))  &kp RG(RS(EQUAL))  &kp LEFT_BRACKET   &kp Q                 &kp TAB
-&kp LG(TAB)        &kp Q            &kp LEFT_ARROW  &kp RIGHT     &kp DOWN_ARROW                  &kp SLASH          &kp RS(SLASH)      &kp RG(RS(COMMA))  &kp RG(RS(PERIOD))    &kp HOME
+&kp ESC            &kp TAB          &kp LEFT_ARROW  &kp RIGHT     &kp DOWN_ARROW                  &kp SLASH          &kp RS(SLASH)      &kp RG(RS(COMMA))  &kp RG(RS(PERIOD))    &kp HOME
 &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp K_MUTE      &trans        &trans          &trans  &trans  &trans                                                                         &kp END
             >;
         };
