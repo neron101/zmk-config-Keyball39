@@ -45,7 +45,7 @@ layers:
   - '#'
   - $
   - '%'
-  - Q
+  - {t: Sft+ 6, s: Sft+ ^}
   - '&'
   - '*'
   - (
@@ -85,10 +85,10 @@ layers:
   - F3
   - F4
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - UNDO
-  - '|'
-  - I
-  - CALCULATOR
+  - F13
+  - F14
+  - F15
+  - F16
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - F5
   - F6
