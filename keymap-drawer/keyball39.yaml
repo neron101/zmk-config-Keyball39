@@ -73,8 +73,8 @@ layers:
   - LANGUAGE 1
   - LANGUAGE 2
   - $$mdi:apple-keyboard-control$$
-  - {t: '6', h: toggle}
-  - {t: QWRT, h: toggle}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
