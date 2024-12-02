@@ -65,7 +65,21 @@
         };
     };
 
-    combos { compatible = "zmk,combos"; };
+    combos {
+        compatible = "zmk,combos";
+
+        slp5 {
+            bindings = <&none>;
+            key-positions = <4 5>;
+            layers = <5>;
+        };
+
+        slp0 {
+            bindings = <&none>;
+            key-positions = <14 15>;
+            layers = <0>;
+        };
+    };
 
     keymap {
         compatible = "zmk,keymap";
