@@ -45,8 +45,8 @@ layers:
   - '#'
   - $
   - '%'
-  - {t: Sft+ 6, s: Sft+ ^}
-  - '&'
+  - LANGUAGE 1
+  - LANGUAGE 2
   - '*'
   - (
   - )
